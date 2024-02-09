@@ -7,18 +7,21 @@
  The houses are visualized in a graph, the adjacency between vertices is made with "clientes adjacencia.csv"
 
  example from a shorter file:
+ 
  ![image](https://github.com/MaBonfim/Graph_Dijkstra_Implementation/assets/126115600/719aeea3-c97d-43a7-97f0-f3bd8f4d4907)
 
  The weights of the edges are calculated with the coordinates of each house in the file "coordenadas_clientes.csv"
 
  example from a shorter file:
+ 
  ![image](https://github.com/MaBonfim/Graph_Dijkstra_Implementation/assets/126115600/d2fd1c93-73f5-4150-91d0-89a0837475a8)
 
  The result of the relatory contains the house owner, date, time, initial position of the guard, path of the guard, time to arrive the place(sum of the weights)
 
+
  ![image](https://github.com/MaBonfim/Graph_Dijkstra_Implementation/assets/126115600/bd9fa5fb-cf7f-4017-9774-8059f50bf403)
 
-#How to run
+# How to run
  1 - compile the main file
   ![image](https://github.com/MaBonfim/Graph_Dijkstra_Implementation/assets/126115600/5c39c15b-cfec-408c-b629-f7649d99b5ff)
 
